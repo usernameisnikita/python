@@ -1,0 +1,16 @@
+def compress(text):
+  num=' '
+  count=1
+  for i in range(len(text)-1):
+      if text[i]==text[i+1]:
+          count+=1
+      else:
+          num= num+text[i]+ str(count)
+          count = 1
+
+  num+= text[-1]+str(count)
+
+  print(num)
+
+text=input("enter text")
+compress(text)            
