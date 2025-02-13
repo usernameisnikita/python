@@ -1,0 +1,5 @@
+print("this is a calculator")
+a = 2
+b = 3
+print("answer is", a + b)
+
