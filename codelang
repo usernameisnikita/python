@@ -1,0 +1,19 @@
+message=input("what is the msg?")
+msgs=message.split(" ")
+sentence=[]
+coding=True
+if(coding):
+  for msg in msgs:
+    if(len(msg)>=3):
+      before="abc"
+      after="xyz"
+      newmsg=before + msg[1:] + msg[0] + after
+      sentence.append(newmsg)
+  
+    else:
+      sentence.append(msg[::-1])
+
+  print(" ".join(sentence))
+
+
+  
