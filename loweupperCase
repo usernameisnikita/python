@@ -1,0 +1,5 @@
+st= "nikita"
+print(st.upper())
+st1= "NhNiyfkUH"
+print(st1.lower())
+print(st1.upper())
