@@ -1,0 +1,16 @@
+# recursion
+
+
+
+def factorial(n):
+  if(n==0 or n==1):
+    return 1
+  else:
+    return n*factorial(n-1)
+
+print(factorial)
+
+fact= int(input("enter number to find factorial of"))
+print(factorial)
+
+
