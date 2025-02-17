@@ -1,0 +1,9 @@
+def FunctionName(a,b):
+  function = a+b
+  print(function)
+
+a=int(input("Enter a : "))
+b=int(input("Enter b : "))
+
+FunctionName(a,b)
+FunctionName(2,3)
