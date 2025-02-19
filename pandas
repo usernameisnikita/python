@@ -1,0 +1,11 @@
+import pandas
+
+print("hi")
+# this is a code
+a=1
+b="hey"
+c=False
+print(a)
+print(b)
+print(c)
+print("this is a", type(a), "type")
