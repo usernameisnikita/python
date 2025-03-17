@@ -1,0 +1,8 @@
+#for loop
+
+# colours= ["red", "green", "blue", "yellow"]
+
+# for color in colours:
+#   print(color)
+#   for i in color:
+#     print(i)
