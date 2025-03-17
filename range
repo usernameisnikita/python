@@ -1,0 +1,15 @@
+#range
+
+# st="hey i am nikita"
+
+# for i in range(4):
+#   print(i)
+# print("next")
+# for i in range(4,6):
+#   print(i)
+# print("next")
+# print(len(st))
+# print("next")
+# for i in range(4, len(st), 2):
+#   print(i)
+
