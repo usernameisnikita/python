@@ -1,0 +1,3 @@
+name="Bhavya"
+for i in name:
+  print(i)
