@@ -1,0 +1,10 @@
+x=int(input("enter your number for case:"))
+match x:
+     case 0:
+       print("it is 0")
+
+     case 1:
+       print("it is 1")
+
+     case _:
+       print("it is", x)
