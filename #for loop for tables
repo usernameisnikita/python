@@ -1,0 +1,5 @@
+#for loop for tables
+
+# num=int(input("enter the number you want a table for:"))
+# for i in range(0,11):
+#   print(num,"*", i, "=", num*i)
