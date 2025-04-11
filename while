@@ -1,0 +1,7 @@
+while True:
+  num=int(input("enter any positive number:"))
+  print(num)
+  if num<0:
+    break
+
+print("exits, since it was not a positive number")
